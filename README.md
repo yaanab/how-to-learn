@@ -3,16 +3,16 @@
 
 ## В проекте использованы:
 :white_check_mark: Методология БЭМ <br>
-:white_check_mark: Файловая структура CSS оформлена по правилам Nested БЭМ
-:white_check_mark: Flexbox
-:white_check_mark: iframe
-:white_check_mark: Анимации и трансформации
-:white_check_mark: Позиционирование элементов
+:white_check_mark: Файловая структура CSS оформлена по правилам Nested БЭМ <br>
+:white_check_mark: Flexbox <br>
+:white_check_mark: iframe <br>
+:white_check_mark: Анимации и трансформации <br>
+:white_check_mark: Позиционирование элементов <br>
 
 ### Планы по доработке:
-:black_square_button: Исправить замечания после ревью:smirk:
-:black_square_button: Дописать вендорные префиксы
-:black_square_button: Создать форму для отправки комментариев ползователями
-:black_square_button: Подключить другие шрифты
+:black_square_button: Исправить замечания после ревью:smirk: <br>
+:black_square_button: Дописать вендорные префиксы <br>
+:black_square_button: Создать форму для отправки комментариев ползователями <br>
+:black_square_button: Подключить другие шрифты <br>
 ___
 ![](./images/header-image.png)
