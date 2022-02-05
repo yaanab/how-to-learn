@@ -12,7 +12,7 @@
 ### Планы по доработке:
 :black_square_button: Исправить замечания после ревью:smirk: <br>
 :black_square_button: Дописать вендорные префиксы <br>
-:black_square_button: Создать форму для отправки комментариев ползователями <br>
+:black_square_button: Создать форму для отправки комментариев полmзователями <br>
 :black_square_button: Подключить другие шрифты <br>
 ___
 ![](./images/header-image.png)
